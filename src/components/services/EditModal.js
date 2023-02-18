@@ -53,7 +53,7 @@ export default function EditModal({ id }) {
                       title_uz: data.get('title'),
                       title_ru: data.get('title_ru'),
                       title_en: data.get('title_en'),
-                      description: data.get('description'),
+                      description_uz: data.get('description'),
                       description_ru: data.get('description_ru'),
                       description_en: data.get('description_en'),
                       companyId: data.get('company_id'),
