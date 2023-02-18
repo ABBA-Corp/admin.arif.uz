@@ -62,7 +62,7 @@ export default function EditModal({ id }) {
                 ? {
                       image: data.get('img_src'),
                       name: data.get('name'),
-                      title: data.get('title'),
+                      title_uz: data.get('title'),
                       title_ru: data.get('title_ru'),
                       title_en: data.get('title_en'),
                       description_uz: data.get('description'),
