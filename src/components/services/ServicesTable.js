@@ -127,7 +127,7 @@ export default function ServicesTable() {
                                             {service.title_en}
                                         </TableCell>
                                         <TableCell align="right">
-                                            {service.description}
+                                            {service.description_uz}
                                         </TableCell>
                                         <TableCell align="right">
                                             {service?.company?.title_uz}
